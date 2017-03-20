@@ -4,7 +4,7 @@ This is the _first webpage_ I have ever created using **Git and GitHub**.
 It is so much fun!!  
 ## Purpose of the project
 Learn how to manipulate a .html file on Git and push it to a repository.  
-# What Have I Learnt So Far?
+## What Have I Learnt So Far?
 * Creating a repository.
 * Commit and Pushing changes to GitHub.
 * Working in pairs.
