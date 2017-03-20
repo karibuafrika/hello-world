@@ -1,16 +1,16 @@
-#Welcome to My First Webpage in Moringa Prep Class!
-![Welcome](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2816NDfZqo6xeIUCoqcDccYtu7Sk0X8EGKFeW6PCSGkR9Nn978Q)
-This is the _first webpage_ I have ever created using **Git and GitHub**.
-It is so much fun!!
-##Purpose of the project
-Learn how to manipulate a .html file on Git and push it to a repository.
-#What Have I Learnt So Far?
+# Welcome to My First Webpage in Moringa Prep Class!  
+![Welcome](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2816NDfZqo6xeIUCoqcDccYtu7Sk0X8EGKFeW6PCSGkR9Nn978Q)  
+This is the _first webpage_ I have ever created using **Git and GitHub**.  
+It is so much fun!!  
+## Purpose of the project
+Learn how to manipulate a .html file on Git and push it to a repository.  
+# What Have I Learnt So Far?
 * Creating a repository.
 * Commit and Pushing changes to GitHub.
 * Working in pairs.
 * Writing README's using markdown language. [Check out this fun tutorial](http://www.markdowntutorial.com)
 
-##License
+## License
 
 Copyright (c) [2017] [Joyce Ngamau]
 
